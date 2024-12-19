@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\triin\\source\\repos\\Week13SQLiteDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7E42F5-C1C5-4C7A-BB92-CE9A89C4A7E8}|Week13SQLiteDB\\Week13SQLiteDB.csproj|c:\\users\\triin\\source\\repos\\week13sqlitedb\\week13sqlitedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7E42F5-C1C5-4C7A-BB92-CE9A89C4A7E8}|Week13SQLiteDB\\Week13SQLiteDB.csproj|solutionrelative:week13sqlitedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\triin\\source\\repos\\Week13SQLiteDB\\Week13SQLiteDB\\Program.cs",
+              "RelativeDocumentMoniker": "Week13SQLiteDB\\Program.cs",
+              "ToolTip": "C:\\Users\\triin\\source\\repos\\Week13SQLiteDB\\Week13SQLiteDB\\Program.cs",
+              "RelativeToolTip": "Week13SQLiteDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:11:57.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
